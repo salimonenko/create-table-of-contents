@@ -3,7 +3,7 @@
 The script searches the webpage's HTML code for a tag with the ID `content_razn` and looks within it for tags that meet two conditions:
 
 1. The tag MUST be bold (font weight greater than 400),
-2. The text content of the tag MUST begin with a paragraph symbol (§). The script extracts this text content to generate a table of contents. The table of contents panel is positioned at the top right of the page (a small red button with a black triangular arrow). An example of the script in action can be found here: http://4846d.ru/raznoe/pomoyka-ssha.html
+2. The text content of the tag MUST begin with a paragraph symbol (§). The script extracts this text content to generate a table of contents. The table of contents panel is positioned at the top right of the page (a small red button with a black triangular arrow). An example of the script in action can be found here: (see link below).
 
 The script is cross-browser compatible and works correctly in Firefox (versions 24, 36), Edge (version 109), Pale Moon. 
 Note: clicking on table of contents items triggers a relatively slow scroll to the corresponding paragraph. Furthermore:
